@@ -4,5 +4,6 @@ public class mytest{
 		System.out.println("hanxiao");
 		System.out.println("hanxiao第2次");
 		System.out.println("hanxiao第3次");
+		System.out.println("hanxiao第4次");
 	}
 }
