@@ -1,0 +1,6 @@
+public class mytest{
+	public static void main(String[] str){
+		System.out.println("xiajunbo");
+		System.out.println("hanxiao");
+	}
+}

@@ -1,0 +1,3 @@
+<select id="selectUser" resultType="User">
+	select userName from user
+</select>
